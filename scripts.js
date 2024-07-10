@@ -8,7 +8,12 @@ const jokes = [
     "Why did the scarecrow win an award? Because he was outstanding in his field!",
     "I'm reading a book on anti-gravity. It's impossible to put down!",
     "Why don’t some couples go to the gym? Because some relationships don’t work out.",
-    "What did one wall say to the other wall? 'I'll meet you at the corner!'"
+    "What did one wall say to the other wall? 'I'll meet you at the corner!'",
+      "I used to play piano by ear, but now I use my hands.",
+    "What did the ocean say to the beach? Nothing, it just waved.",
+    "I'm on a seafood diet. I see food and I eat it.",
+    "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "Why did the scarecrow win an award? Because he was outstanding in his field!",
 ];
 
 function generateJoke() {
