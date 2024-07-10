@@ -9,7 +9,12 @@ body {
     justify-content: center;
     min-height: 100vh;
 }
-
+#joke{
+  color:white
+}
+#joke-list{
+  color:white
+}
 header {
     background-color: #9DB0CE;
     color: white;
@@ -20,7 +25,7 @@ header {
 }
 
 .joke-container {
-    background-color: white;
+   background-image: linear-gradient(#FEE1DD, #E9C2C5);
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 2em;
@@ -48,7 +53,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #9DB0CE;
 }
 
 footer {
