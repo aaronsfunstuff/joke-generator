@@ -15,6 +15,16 @@ body {
 #joke-list{
   color:white
 }
+#joke-form{
+  color:white;
+}
+#submit-buttom{
+  padding:20px;
+  font-size: 20px;
+  border-radius: 4px;
+  background-color:#9DB0CE;
+  font-family:'Roboto', sans-serif;
+}
 header {
     background-color: #9DB0CE;
     color: white;
@@ -71,3 +81,4 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
